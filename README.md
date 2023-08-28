@@ -22,7 +22,7 @@ This repository contains the code for a simple candidate-to-vacancy matching alg
 3. Run the code to get the top 3 matching candidates for each vacancy.
 
 ## Files
-- `case_study_matching_algorithm_colab.py`: Contains the main code for the matching algorithm.
+- `case_study_extra.ipynb`: Contains the main code for the matching algorithm.
 
 ## Methodology
 
